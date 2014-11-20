@@ -31,7 +31,7 @@ img{display:block; margin:0; padding:0; border:none;}
 br.clear{clear:both; margin-top:-15px;}
 
 a{
-	color:#B2C629;
+	color:#CC9900;
 	background-color:#FFFFFF;
 	outline:none;
 	text-decoration:none;
@@ -62,13 +62,13 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	font-family:Georgia, "Times New Roman", Times, serif;
 	}
 
-.col1{color:#CCCCCC; background-color:#000044;}
+.col1{color:#CCCCCC; background-color:#000000;}
 .col2, .col2 a{color:#FFFFFF; background-color:#CC9900;}
 .col3{color:#777777; background-color:#FFFFFF;}
 .col3 a{color:#95AD19; background-color:#FFFFFF;}
 .col4{color:#FFFFFF; background-color:#000000;}
-.col4 a{color:#95AD19; background-color:#000000;}
-.col5, .col5 a{color:#333333; background-color:#95AD19;}
+.col4 a{color:#CC9900; background-color:#000000;}
+.col5, .col5 a{color:#333333; background-color:#CC9900;}
 
 /* ----------------------------------------------Generalise-------------------------------------*/
 
@@ -105,7 +105,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	}
 
 #header h1 a{
-	color:#B2C629;
+	color:#CC9900;
 	background-color:#000000;
 	}
 
